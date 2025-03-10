@@ -1,3 +1,4 @@
+# 👋 Welcome to my GitHub! 
 
 ## 📌 About Me  
 I am a third-year student of **Automatics and Robotics at AGH University of Cracow**.  
