@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dawid! Welcome to my GitHub! 
 
 ## 📌 About Me  
-I am a third-year student of **Automatics and Robotics at AGH University of Cracow**.  
+I am a fourth-year student of **Automatics and Robotics at AGH University of Cracow**.  
 🔧 I am passionate about modern technologies and continuously developing my skills in **automatics and robotics**.  
 📚 I am **hardworking**, a fast learner, and always eager to gain new knowledge.  
 🎯 I strive for **constant growth** and hands-on experience that will allow me to work on ambitious projects in the future.  
